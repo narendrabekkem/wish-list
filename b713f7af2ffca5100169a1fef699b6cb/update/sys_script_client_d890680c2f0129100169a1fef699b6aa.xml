@@ -3,7 +3,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>Set the Requester to the currently logged in user for new Wish Item records. Users can change the field value.</description>
+        <description>Set the Requester to the currently logged in user for new Wish Item records. Users can change the field value. </description>
         <field/>
         <global>true</global>
         <isolate_script>true</isolate_script>
