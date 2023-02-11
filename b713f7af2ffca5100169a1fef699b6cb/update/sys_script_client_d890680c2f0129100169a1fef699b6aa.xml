@@ -30,7 +30,7 @@
         <sys_update_name>sys_script_client_d890680c2f0129100169a1fef699b6aa</sys_update_name>
         <table>x_802222_wish_list_wish_item</table>
         <type>onLoad</type>
-        <ui_type>10</ui_type>
+        <ui_type>0</ui_type>
         <view/>
     </sys_script_client>
 </record_update>
