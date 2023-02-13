@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
     <sys_db_object action="INSERT_OR_UPDATE">
-        <access>public</access>
-        <actions_access>true</actions_access>
-        <alter_access>true</alter_access>
+        <access>package_private</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
         <caller_access/>
-        <client_scripts_access>true</client_scripts_access>
+        <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>true</create_access>
+        <create_access>false</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
         <is_extendable>false</is_extendable>
@@ -15,7 +15,7 @@
         <name>x_802222_wish_list_wish_item</name>
         <number_ref/>
         <provider_class/>
-        <read_access>true</read_access>
+        <read_access>false</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
         <sys_class_name>sys_db_object</sys_class_name>
@@ -27,8 +27,8 @@
         <sys_policy/>
         <sys_scope display_value="Wish List">b713f7af2ffca5100169a1fef699b6cb</sys_scope>
         <sys_update_name>sys_db_object_130437ef2ffca5100169a1fef699b6a9</sys_update_name>
-        <update_access>true</update_access>
+        <update_access>false</update_access>
         <user_role/>
-        <ws_access>true</ws_access>
+        <ws_access>false</ws_access>
     </sys_db_object>
 </record_update>

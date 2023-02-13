@@ -14,10 +14,10 @@
         <mobile_view_name>Mobile</mobile_view_name>
         <name/>
         <order>1</order>
-        <override_menu_roles>false</override_menu_roles>
+        <override_menu_roles>true</override_menu_roles>
         <query/>
         <report/>
-        <roles/>
+        <roles>itil</roles>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2023-02-10 09:38:29</sys_created_on>
